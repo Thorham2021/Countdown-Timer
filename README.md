@@ -1,2 +1,19 @@
 # Countdown-Timer
-This tier is develope using python. It is easy to use, very compact and available in both dark and light themes....
+
+
+### OVERVIEW
+
+This timer is developed using python. It is easy to use, very compact and available in both dark and light themes....
+
+
+### DEPENDENCIES
+
+Install playsound package using "pip install playsound" command.
+
+### SCREENSHOTS
+
+DARK MODE
+
+![image](https://user-images.githubusercontent.com/80593060/229284413-6063eacc-0530-4ad3-b840-1c561216942e.png)
+
+LIGHT MODE
