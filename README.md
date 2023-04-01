@@ -9,7 +9,8 @@ This timer is developed using python. It is easy to use, very compact and availa
 ### DEPENDENCIES
 
 Install playsound package using "pip install playsound" command.
-Install the "Space Mono" font from "https://fonts.google.com/specimen/Space+Mono" website.
+
+Install the "Space Mono" font from https://fonts.google.com/specimen/Space+Mono website.
 
 ### SCREENSHOTS
 
